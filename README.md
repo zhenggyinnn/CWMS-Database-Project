@@ -17,5 +17,6 @@ This project aims to design and implement a relational database for managing com
 - Implemented queries to analyze user-reported issues.
 
 ## How to Use
-1. Download SQL file and open it on MySQL workbench
-2. Open https://www.drawio.com in the browser and open "Conceptual Diagram fo CWMS" 
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/CWMS-Database-Project.git
