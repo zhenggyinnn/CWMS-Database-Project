@@ -19,4 +19,4 @@ This project aims to design and implement a relational database for managing com
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/CWMS-Database-Project.git
+   git clone https://github.com/zhenggyinnn/CWMS-Database-Project.git
