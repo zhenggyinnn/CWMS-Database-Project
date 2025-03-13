@@ -16,6 +16,9 @@ This project aims to design and implement a relational database for managing com
 - Designed a relational database schema for a scalable solution.
 - Implemented queries to analyze user-reported issues.
 
+## Report 
+- To view the report, please click on https://drive.google.com/drive/folders/10kLDNSftShDumsvk20Jo9STcARfUFXqT?usp=share_link
+
 ## How to Use
 1. Clone the repository:
    ```bash
